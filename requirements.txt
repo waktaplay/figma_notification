@@ -1,5 +1,5 @@
 black==23.11.0
-isort==5.12.0
+isort==5.13.2
 pytest==7.4.3
 schedule==1.2.1
 requests==2.31.0
